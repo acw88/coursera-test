@@ -1,0 +1,11 @@
+.menu {
+	background-color: lightgrey;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+.menu > h2 {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
